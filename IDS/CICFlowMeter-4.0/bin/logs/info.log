@@ -1,0 +1,56 @@
+2024-02-19 19:46:44 - Sorry,no pcap files can be found under: /home/hbn/abc
+2024-02-19 19:51:37 - Sorry,no pcap files can be found under: /home/hbn/abc
+2024-02-19 19:51:47 - Sorry, the output directory can be found under: /home/hbn/csv
+2024-02-19 19:52:04 - 
+2024-02-19 19:52:04 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 19:59:59 - 
+2024-02-19 19:59:59 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:01:18 - 
+2024-02-19 20:01:18 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:05:21 - 
+2024-02-19 20:05:21 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:05:54 - 
+2024-02-19 20:05:54 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:17:39 - 
+2024-02-19 20:17:39 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:22:08 - 
+2024-02-19 20:22:08 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:22:25 - 
+2024-02-19 20:22:25 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:23:14 - 
+2024-02-19 20:23:14 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:42:15 - 
+2024-02-19 20:42:15 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 21:52:13 - 
+2024-02-19 21:52:13 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:44:25 - 
+2024-02-19 22:44:25 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:46:26 - You select: /home/hbn/abc.pcap
+2024-02-19 22:46:26 - Out folder: /home/hbn/csv
+2024-02-19 22:46:27 - CICFlowMeter received 1 pcap file
+2024-02-19 22:56:58 - 
+2024-02-19 22:56:58 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:57:21 - 
+2024-02-19 22:57:21 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:00:38 - 
+2024-02-19 23:00:38 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:01:07 - 
+2024-02-19 23:01:07 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:05:12 - 
+2024-02-19 23:05:12 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:07:52 - 
+2024-02-19 23:07:52 - CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:07:53 - 
+2024-02-19 23:07:53 - Working on... /home/hbn/abc.pcap 
+2024-02-19 23:07:53 - Done! in 0 seconds
+2024-02-19 23:07:53 - 	 Total packets: 587
+2024-02-19 23:07:53 - 	 Valid packets: 587
+2024-02-19 23:07:53 - 	 Ignored packets:0 0 
+2024-02-19 23:07:53 - PCAP duration 58 seconds
+2024-02-19 23:07:53 - ----------------------------------------------------------------------------
+2024-02-19 23:07:53 - 
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 66
+2024-02-19 23:07:53 - ----------------------------------------------------------------------------
+

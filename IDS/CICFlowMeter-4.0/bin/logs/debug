@@ -1,0 +1,67 @@
+2024-02-19 19:46:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Sorry,no pcap files can be found under: /home/hbn/abc
+2024-02-19 19:51:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Sorry,no pcap files can be found under: /home/hbn/abc
+2024-02-19 19:51:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Sorry, the output directory can be found under: /home/hbn/csv
+2024-02-19 19:52:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 19:52:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 19:59:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 19:59:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:01:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:01:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:05:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:05:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:05:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:05:54 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:17:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:17:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:22:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:22:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:22:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:22:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:23:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:23:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 20:42:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 20:42:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 21:52:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 21:52:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 22:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:46:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/hbn/abc.pcap
+2024-02-19 22:46:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/hbn/csv
+2024-02-19 22:46:27 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-19 22:56:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 22:56:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 22:57:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 22:57:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:00:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 23:00:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:01:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 23:01:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:05:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 23:05:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:07:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 23:07:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeter-V3 found: 1 Files.
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... /home/hbn/abc.pcap 
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/hbn/abc.pcap
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 587
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 587
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 58 seconds
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow: 
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow finishedFlows -> 0,7
+2024-02-19 23:07:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    dumpLabeledFlow total(include current) -> 11,66
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 66
+2024-02-19 23:07:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
